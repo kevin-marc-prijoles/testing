@@ -1,2 +1,2 @@
 # testing
-# trying to publish this in GutHub Pages
+# trying to publish this in GitHub Pages
